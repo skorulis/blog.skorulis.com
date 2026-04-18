@@ -1,14 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="icon">
-  <path d="M12 8V4H8" />
-  <rect width="16" height="12" x="4" y="8" rx="2" />
-  <path d="M2 14h2" />
-  <path d="M20 14h2" />
-  <path d="M15 13v2" />
-  <path d="M9 13v2" />
-  <style>
-    .icon { stroke: #000; }
-    @media (prefers-color-scheme: dark) {
-      .icon { stroke: #FFF; }
-    }
-  </style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#2563eb" />
+  <path d="M18 15h20l8 8v26H18z" fill="#ffffff" />
+  <path d="M38 15v8h8z" fill="#bfdbfe" />
+  <rect x="24" y="30" width="16" height="3.5" rx="1.75" fill="#93c5fd" />
+  <rect x="24" y="37" width="12" height="3.5" rx="1.75" fill="#93c5fd" />
+  <path d="M34 43l11-11 4 4-11 11-5 1z" fill="#f59e0b" />
+  <path d="M45 32l2-2 4 4-2 2z" fill="#fef3c7" />
 </svg>
