@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  "Head first into GWT game development"
-date:   2011-05-25 11:48:00
-categories: gwt
-comments: true
+title: "Head first into GWT game development"
+description: "Head first into GWT game development"
+pubDatetime: 2011-05-25T11:48:00.000Z
+tags:
+  - gwt
+draft: false
 ---
-
 So I wanted to write a 2D web game but couldn’t decide between flash or javascript and then I heard about GWT which seemed to give me everything I wanted. I’ve never been one to really read too much before jumping in so after installing and reading half an example I started programing my game. I didn’t really want to make a good game, just something that would let me know if I could use GWT to make a decent game in the future.
 For anyone else who is like me and just wants to get straight into making a game, here’s a quick introduction into making a canvas based game using GWT and the problems that I ran into. If you’re even more hasty, here’s the [source code] so you can just get it building and running.
 

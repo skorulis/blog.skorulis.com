@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  "Project Drone: Day 3"
-date:   2014-03-19 16:21:00
-categories: java
-comments: true
+title: "Project Drone: Day 3"
+description: "Project Drone: Day 3"
+pubDatetime: 2014-03-19T16:21:00.000Z
+tags:
+  - java
+draft: false
 ---
-
 Now that I had 2 drones moving around on the screen I decided that the world looked a little sparse with just a black background. I wanted to put some sort of simple backdrop which would later become my game levels. For now all I needed was a simple arena built out of a grid. Since everything is on a single level I figured I could optimise by having a single quad for the floor with models for each section of wall.
 
 First up was building the floor. I started using the [ModelBuilder] to create a single quad. I was initially confused why it was only visible from the bottom but then remembered back face culling and reversed the order of the points so it would show up from the top. The next step was being able to put a tiled texture onto the floor. Getting a single texture was easy:

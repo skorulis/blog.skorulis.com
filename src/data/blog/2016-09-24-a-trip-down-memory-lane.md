@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "A trip down memory lane"
-date:   2016-09-24
-comments: true
+title: "A trip down memory lane"
+description: "A trip down memory lane"
+pubDatetime: 2016-09-24T00:00:00.000Z
+tags:
+  - others
+draft: false
 ---
-
 So I spent today doing things I loved to do as a child. Running and jumping around the bush, playing with fires, cooking over fires, exploring the wilderness. Of course I'm not a child any more so I finished it off with an absolutely delicious beer.
 
 The place

@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Project Drone: Day 1"
-date:   2014-02-28 11:21:00
-categories: java
-comments: true
+title: "Project Drone: Day 1"
+description: "Project Drone: Day 1"
+pubDatetime: 2014-02-28T11:21:00.000Z
+tags:
+  - java
+draft: false
 ---
 In my [previous post]({{site.baseurl}}/2014/02/27/getting-started-with-libgdx.html) I setup a [libgdx] project that rendered a simple model to the screen. The next piece I want to work on is creating some units for my game. I could find someone to help me with the modelling and may do this in the future but I want to be able to do this myself so I can better explain what I need if I decide I want to hire someone to do modelling work.
 

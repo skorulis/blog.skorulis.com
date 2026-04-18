@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  "What is really the world’s strongest beer?"
-date:   2013-12-14 13:21:00
-categories: beer
-comments: true
+title: "What is really the world’s strongest beer?"
+description: "What is really the world’s strongest beer?"
+pubDatetime: 2013-12-14T13:21:00.000Z
+tags:
+  - beer
+draft: false
 ---
-
 For a while now Brewmeister have claimed the title of world’s strongest beer; first with Armageddon at 65% and now with Snake venom at 67.5%. I’ve not had Snake venom but I purchased Armageddon while it was still the worlds strongest beer and recently consumed it. I drank the entire bottle over the course of a few hours to make sure the alcohol didn’t sneak up on me and after finishing it I can guarantee you that it is not anywhere near 65%.
 
 Sadly I don’t have any scientific equipment so I can only base this on the following observations:

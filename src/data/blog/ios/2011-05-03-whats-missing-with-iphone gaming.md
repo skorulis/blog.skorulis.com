@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  "What’s missing with iPhone gaming?"
-date:   2011-05-03 11:48:00
-categories: iOS
-comments: true
+title: "What’s missing with iPhone gaming?"
+description: "What’s missing with iPhone gaming?"
+pubDatetime: 2011-05-03T11:48:00.000Z
+tags:
+  - ios
+draft: false
 ---
-
 I usually spend about an hour a day playing iPhone games. It’s rarely something I get excited about but It seems a good way to pass the train trip when I don’t have my laptop to work on. This seems wrong to me. There are many PC games that I look forward to playing in my free time (Minecraft anyone) so why doesn’t the same thing happen with the games on my iPhone?
 
 Right now I feel that I have a decent amount of games on my iPhone but still tend to pick it up and have trouble finding something that will engage me even for just a few minutes. What’s missing that can’t get me nearly as involved in playing an iPhone game as a browser game?

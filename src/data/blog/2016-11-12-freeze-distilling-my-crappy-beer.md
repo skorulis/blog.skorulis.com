@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Freeze distilling my crappy beer"
-date:   2016-11-12
-comments: true
+title: "Freeze distilling my crappy beer"
+description: "Freeze distilling my crappy beer"
+pubDatetime: 2016-11-12T00:00:00.000Z
+tags:
+  - others
+draft: false
 ---
-
 ![What a mess](/assets/freeze/bottle-bomb.jpg)
 
 On the 8th of October I was rudely awoken to a bang. Soon after I started smelling hops and knew what had happened; I had created my first bottle bomb. Since then I've had no other explosions but the beer is massively over carbonated and quite frankly not that tasty either. My only options seemed to be to throw the lot out or turn it into something new.

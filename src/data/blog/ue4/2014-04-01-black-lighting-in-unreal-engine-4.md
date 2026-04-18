@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  "Black lighting in unreal engine 4"
-date:   2014-04-01 16:21:00
-categories:  ue4
-comments: true
+title: "Black lighting in unreal engine 4"
+description: "Black lighting in unreal engine 4"
+pubDatetime: 2014-04-01T16:21:00.000Z
+tags:
+  - ue4
+draft: false
 ---
-
 Today I was trying to do something very simple in UE4; making a checkerboard type level out of static mesh squares, below is an example of what I was hoping to achieve:
 
 ![Before build]({{ site.baseurl }}/assets/before-build.png)

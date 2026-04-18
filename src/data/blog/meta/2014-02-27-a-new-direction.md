@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  "A new direction"
-date:   2014-02-27 13:21:00
-categories: meta
-comments: true
+title: "A new direction"
+description: "A new direction"
+pubDatetime: 2014-02-27T13:21:00.000Z
+tags:
+  - meta
+draft: false
 ---
-
 1 week ago I landed back in Sydney after a few years living in London. Since I am now unemployed and have fairly low living expenses I decided that it’s a great opportunity to spend some time working on my own personal project.
 
 Since I’ve always wanted to make games and I have experience in mobile development I reasoned that a game for mobile was my best bet. Initially I had been toying around with building my entire game in objective-C targeting iOS only and then converting core pieces to C so that I could use it with other platforms. While this was fun and I learnt a lot it was ultimately leading to very slow development. I was essentially having to rewrite a new 3D engine and I just can’t do that quick enough to develop a game at what I would call a reasonable pace. And then at the end of that I would have to do an engine rewrite to move to other platforms and then have to separate out all the iOS specific code.

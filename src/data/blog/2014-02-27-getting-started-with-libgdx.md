@@ -1,8 +1,10 @@
 ---
-layout: post
-title:  "Getting started with libGDX"
-date:   2014-02-27 10:21:00
-comments: true
+title: "Getting started with libGDX"
+description: "Getting started with libGDX"
+pubDatetime: 2014-02-27T10:21:00.000Z
+tags:
+  - others
+draft: false
 ---
 So today I created my first project with [LIBGDX]. Libgdx promised being able to deploy to iOS, android, desktop and webGL with the benefit that all the development is done on the desktop so no time is wasted deploying to devices or emulators. Once I installed all the [libgdx prerequisites] I tried to confirm that all platforms were building correctly. Desktop and HTML worked straight away, Android would not build initially because I had not downloaded the required version using the android SDK manager but worked afterwards. iOS built but would take some time to setup my provisioning so I decided to test it later. Since I had enough to test on the desktop and deploy anything I created to web for people to play with I decided to go straight to work and deal with android and iOS later.
 

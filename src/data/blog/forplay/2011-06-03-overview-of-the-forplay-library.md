@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  "Overview of the Forplay Library"
-date:   2011-06-03 13:21:00
-categories: forplay
-comments: true
+title: "Overview of the Forplay Library"
+description: "Overview of the Forplay Library"
+pubDatetime: 2011-06-03T13:21:00.000Z
+tags:
+  - forplay
+draft: false
 ---
-
 In my [previous post]({% post_url 2011-05-25-head-first-into-gwt-game-development %}) I built a simple helicopter game using the [Google Web Toolkit]. In the end I was not 100% satisfied with the process or the end result so after watching a [Google IO video about forplay] I decided to switch over to the [forplay library] and see if that suited me better. The library is only just getting started but so far I really like the abstraction and simplicity of it. As the game logic was already in place I wont be discussing much about the actual game except where I had to make changes to the original code.
 You can play the [game here] and view the [source code here]
 

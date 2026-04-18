@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  "Internet security and Amazon EC2"
-date:   2014-02-26 13:21:00
-categories: AWS
-comments: true
+title: "Internet security and Amazon EC2"
+description: "Internet security and Amazon EC2"
+pubDatetime: 2014-02-26T13:21:00.000Z
+tags:
+  - aws
+draft: false
 ---
-
 A few months ago I started trying out the free tier of amazon EC2. I set up my linux box to run a new pure JS version of my website. My original plan was to move everything over to EC2 and use that as my primary hosting from now on. I didn’t really have a lot of time to spend so I only paid attention to what I needed to in order to start up 1 machine and be able to ssh into it to install the programs I needed.
 
 In the last few days my account was compromised, some instances were started and my monthly bill ended up at $280. Luckily I was back from holiday and able to check my emails or it could have easily ended up in the thousands. Thankfully amazon were nice enough to get rid of the charges since they were caused by someone else. I have since closed my account so that I don’t end up in this position again.

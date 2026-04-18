@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  "Unreal Engine 4: Creating a triangle block"
-date:   2014-03-27 16:21:00
-categories:  ue4
-comments: true
+title: "Unreal Engine 4: Creating a triangle block"
+description: "Unreal Engine 4: Creating a triangle block"
+pubDatetime: 2014-03-27T16:21:00.000Z
+tags:
+  - ue4
+draft: false
 ---
-
 Today I was having a play around with [UE4] attempting to creating a fairly basic level. One of the pieces I wanted in the level was a triangle block like a cube chopped in half as below:
 
 ![Triangle 1]({{ site.baseurl }}/assets/triangle1.png)

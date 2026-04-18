@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  "The Big Album of Beers"
-date:   2013-10-27 13:21:00
-categories: beer
-comments: true
+title: "The Big Album of Beers"
+description: "The Big Album of Beers"
+pubDatetime: 2013-10-27T13:21:00.000Z
+tags:
+  - beer
+draft: false
 ---
-
 Today after a long break I finally finished the basic version of my [big album of beers search page]. For over a year now I’ve been photographing every beer I drink and putting it into a Facebook album called the big album of beers. As this album has grown it has gotten sometimes difficult when looking for new beers to remember if I’ve already had the particular beer. This is compounded often by hazy memories of having the beer in the first place.
 
 What I’ve done is create a javascript page which displays the contents of the album with an additional search field. Unlike Facebook it loads all the images at once rather than in blocks which makes finding what I’m after a lot easier. This concept could be made to work for any Facebook album but the parsing of the meta data would need to be changed to match the content.
