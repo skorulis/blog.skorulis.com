@@ -1,9 +1,11 @@
 ---
-layout: post
 title:  "First steps into unit testing"
-date:   2011-03-29 12:11:05
-categories: programming
-comments: true
+description: "Unit testing experimentation"
+pubDatetime: 2011-03-29T12:11:05.000Z
+tags:
+  - ios
+  - unittesting
+draft: false
 ---
 As much as I hate to admit it. I do have a lot of holes in my development experience. Of all these many realms I don’t think any gap is larger than my experience with unit testing. Which currently stands at none. I put this cause of this down to 3 simple things.
 
