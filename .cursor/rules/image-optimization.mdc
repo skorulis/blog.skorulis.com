@@ -1,0 +1,22 @@
+---
+description: Optimize new images before committing; generated images are often too large
+alwaysApply: true
+---
+
+# Image optimization
+
+When adding or generating **new images** (e.g. in `public/`, `src/assets/`, or blog/content images), always run an optimization step so file sizes stay reasonable. Generated images are often much larger than they need to be.
+
+## What to do
+
+1. **After adding or generating an image**, optimize it before considering the task done.
+2. **Preferred**: Run the project script: `npm run optimize:image -- <path>` (e.g. `npm run optimize:image -- public/images/hero.png`). It uses Sharp to resize (max 1600px), compress (JPEG 85%, PNG max compression, WebP 85%), and overwrite in place.
+3. **Alternative**: Use a CLI like `sharp-cli`, `squoosh-cli`, or an online tool, and replace the original file with the optimized version.
+4. **Targets**: Aim for WebP or AVIF where acceptable; for PNG/JPEG, the script uses sensible quality and max dimensions unless the asset must be full resolution.
+
+## Checklist
+
+- [ ] New image added or generated
+- [ ] Image run through optimization (Sharp or other tool)
+- [ ] Original large file replaced with optimized version
+- [ ] No unoptimized large assets committed

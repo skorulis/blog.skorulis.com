@@ -1,0 +1,12 @@
+---
+description: Guidelines for creating blog posts for blog.skorulis.com
+globs: src/data/blog/**/*.md
+alwaysApply: false
+---
+
+# Blog post writing guidelines
+
+- **Tone**: Use a factual but light-hearted tone. Keep explanations grounded and accurate while still feeling approachable and conversational.
+- **Punctuation**: Avoid using em dashes; prefer commas, periods, or parentheses instead.
+- **Open Graph images**: Place OG images for posts in `src/data/blog/images`. Reference them from frontmatter or metadata as needed.
+- **Inline/content images**: Place other inline or supporting images in `public/images` and reference them with appropriate relative URLs.
