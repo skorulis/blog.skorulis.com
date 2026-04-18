@@ -12,4 +12,4 @@ Adding a second unit was easy as expected, which at least lets me know that my d
 
 So a pretty small amount of changes but at least I completed what I set out to. And also got a start of a node based system for scene management.
 
-![Up and running]({{ site.baseurl }}/assets/facing1.png)
+![Up and running](/images/facing1.png)

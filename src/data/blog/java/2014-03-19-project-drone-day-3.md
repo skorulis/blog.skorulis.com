@@ -41,7 +41,7 @@ public Model createFloor(int w, int d) {
 
 With my tiled floor done I moved onto the relatively easy task of adding a surrounding wall. I made the wall by having a single rectangular prism model and creating multiple instances in each square required. There would be more efficient ways to do this but for now it’s not really a problem.
 
-![Up and running]({{ site.baseurl }}/assets/walls1.png)
+![Up and running](/images/walls1.png)
 
 Now that I had walls and a floor though it meant moving my little drones into the centre. This would be easy to do but is also ultimately a waste of time, a better idea was to combine this into creating a player controlled drone and actually get somewhere on having an actual game. For this I created a Player class which ties keyboard controls into drone movement. It’s very simple for now but should be flexible enough to handle everything I needed. This immediately raised 2 problems:
 

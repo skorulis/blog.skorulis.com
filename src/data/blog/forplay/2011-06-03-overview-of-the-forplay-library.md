@@ -19,11 +19,11 @@ Creating a New Project
 
 I simply created a new web application project. Turned app engine off and unchecked generate source.
 
-![Forplay - New project]({{ site.baseurl }}/assets/blog11.png)
+![Forplay - New project](/images/blog11.png)
 
 I then added forplay as a dependant project in Properties->Java build path and set up all my packages. Like GWT all my code is under the root package com.skorulis.heli2 so that they can be easily referenced.
 
-![Forplay - package setup]({{ site.baseurl }}/assets/blog12.png)
+![Forplay - package setup](/images/blog12.png)
 
 You don’t need all these packages but I have followed the convention that images are in resources.images and html,java,flash are reserved for platform specific code. You will only need the platform specific packages if you plan to deploy to the platform.
 At the least your game needs a class that implements Game and a class that implements one of the platform Game classes. I started with java and it was very easy to get going, the only hiccup I had was that I copied the java specific code from the hello project and forgot to change the resource directory. Once I had these 2 classes I was able to run the project and see a blank screen.
@@ -35,7 +35,7 @@ Problems Coming From GWT
 Some classes that I was using in GWT don’t seem to exist in java when running as a java build and give link errors . The 2 that I found were CssColor and Random. CssColor I replaced with int colours and I built a replacement for the Random class to save me refactoring my code. I’m sure there are many more but these are the 2 that I found. Make sure when you convert your colours you make them argb otherwise nothing will draw. Also I no longer had access to the HTML buttons that I was using so I had to design my own button class, it’s pretty simple but does the job I needed.
 With these problems solved I was able to run my game exactly as before but as a java app.
 
-![Up and running]({{ site.baseurl }}/assets/blog13.png)
+![Up and running](/images/blog13.png)
 
 Making Your Game into a Web App
 -------------

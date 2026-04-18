@@ -21,7 +21,7 @@ Creating a new project
 When you create a new project, leave the “Generate GWT project sample code” option checked. If you don’t, your project probably wont build and you’ll
 spend half your time trying to work out what’s missing. Once you have something up and running you can start getting rid of the files you don’t need. Uncheck “Use Google App Engine” as it will just add a bunch of files that you don’t need.
 
-![Setup]({{ site.baseurl }}/assets/blog1.png)
+![Setup]({{ site.baseurl }}/images/blog1.png)
 
 Adding a canvas into the page to draw our game on is fairly simple:
 
@@ -39,7 +39,7 @@ Game loop
 
 For animation I’ve used the com.google.gwt.user.client.Timer. In my first attempt I used the java.util.Timer which caused a “Plugin failed to connect to Development Mode server” error to appear. It took me a while to work out that even though the code compiles, certain java classes are not supported and the resulting javascript code is not generated. Using the GWT timer worked fine.
 
-![Timer error]({{ site.baseurl }}/assets/blog2.png)
+![Timer error](/images/blog2.png)
 
 {% highlight java %}
 timer = new Timer() {

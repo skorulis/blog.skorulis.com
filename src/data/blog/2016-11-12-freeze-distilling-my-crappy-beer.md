@@ -6,7 +6,7 @@ tags:
   - others
 draft: false
 ---
-![What a mess](/assets/freeze/bottle-bomb.jpg)
+![What a mess](/images/freeze/bottle-bomb.jpg)
 
 On the 8th of October I was rudely awoken to a bang. Soon after I started smelling hops and knew what had happened; I had created my first bottle bomb. Since then I've had no other explosions but the beer is massively over carbonated and quite frankly not that tasty either. My only options seemed to be to throw the lot out or turn it into something new.
 
@@ -14,12 +14,12 @@ Freeze distillation (or freeze concentration) is simply the process of freezing 
 
 The first step was to empty the remaining 8 bottles into a container. Due to the overcarbonation this created a bit of a mess but otherwise went fine. I was worried about the disturbance setting one of the bottles off but this didn't happen. From there I split it into 2 contains and put them in the freezer.
 
-![Containers](/assets/freeze/containers.jpg)
+![Containers](/images/freeze/containers.jpg)
 
 Several hours later the beer was frozen enough to extract some ice. My initial method was to scoop the ice with a spatula and let the liquid drain off. This seemed both slow and the ice I was throwing out seemed to still contain a lot that wasn't just water. I later switched to putting the ice into a sieve and mashing it to try and get it as clear as possible which seemed to be a much better method. I ended up leaving the whole thing overnight; By morning it was in the perfect state of frozenness where I could still crush it up and I after extracting all the ice I went from 2.5L to 1L of liquid.
 
-![Ice](/assets/freeze/ice.jpg)
+![Ice](/images/freeze/ice.jpg)
 
 At the end of the process I simply put the beer back into bottles and added a little sugar to re carbonate with the hope that the yeast isn't dead. It's hard to estimate how much alcohol is in there now but I guess it ended up around %10. Perhaps I should label these as special reserve.
 
-![End result](/assets/freeze/result.jpg)
+![End result](/images/freeze/result.jpg)
