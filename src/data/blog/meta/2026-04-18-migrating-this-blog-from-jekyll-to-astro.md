@@ -1,7 +1,7 @@
 ---
 title: "Migrating this blog from Jekyll to Astro"
 description: "A quick note on moving this site from Jekyll to Astro."
-pubDatetime: 2026-04-18T10:00:00.000Z
+pubDatetime: 2026-04-18T00:00:00.000Z
 ogImage: ../images/migrating-this-blog-from-jekyll-to-astro-og.png
 tags:
   - meta
