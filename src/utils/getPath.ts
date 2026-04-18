@@ -11,7 +11,7 @@ import { slugifyStr } from "./slugify";
 export function getPath(
   id: string,
   filePath: string | undefined,
-  includeBase = true,
+  includeBase = false,
 ) {
   const pathSegments = filePath
     ?.replace(BLOG_PATH, "")
@@ -21,16 +21,20 @@ export function getPath(
     .slice(0, -1) // remove the last segment_ file name_ since it's unnecessary
     .map((segment) => slugifyStr(segment)); // slugify each segment path
 
-  const basePath = includeBase ? "/posts" : "";
-
   // Making sure `id` does not contain the directory
   const blogId = id.split("/");
-  const slug = blogId.length > 0 ? blogId.slice(-1) : blogId;
+  const rawSlug = blogId.at(-1) ?? id;
+  const slugMatch = rawSlug.match(/^(\d{4})-(\d{2})-(\d{2})-(.+)$/);
+  const dateSegments = slugMatch
+    ? [slugMatch[1], slugMatch[2], slugMatch[3]]
+    : [];
+  const slug = slugMatch ? slugMatch[4] : rawSlug;
+  const basePath = includeBase ? ["posts"] : [];
 
   // If not inside the sub-dir, simply return the file path
   if (!pathSegments || pathSegments.length < 1) {
-    return [basePath, slug].join("/");
+    return `/${[...basePath, ...dateSegments, slug].join("/")}`;
   }
 
-  return [basePath, ...pathSegments, slug].join("/");
+  return `/${[...basePath, ...pathSegments, ...dateSegments, slug].join("/")}`;
 }
