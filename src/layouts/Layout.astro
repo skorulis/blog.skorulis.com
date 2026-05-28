@@ -3,7 +3,6 @@ import { Font } from "astro:assets";
 import { ClientRouter } from "astro:transitions";
 import {
   PUBLIC_GOOGLE_SITE_VERIFICATION,
-  PUBLIC_CF_WEB_ANALYTICS_TOKEN,
 } from "astro:env/client";
 import { SITE } from "@/config";
 import "@/styles/global.css";
@@ -139,17 +138,6 @@ const structuredData = {
     }
 
     <ClientRouter />
-
-    <!-- Cloudflare Web Analytics: free, no cookies, no consent required -->
-    {
-      PUBLIC_CF_WEB_ANALYTICS_TOKEN && (
-        <script
-          defer
-          src="https://static.cloudflareinsights.com/beacon.min.js"
-          data-cf-beacon={JSON.stringify({ token: PUBLIC_CF_WEB_ANALYTICS_TOKEN })}
-        />
-      )
-    }
 
     <!-- Minimal inline script to prevent FOUC - sets theme immediately -->
     <script is:inline>
