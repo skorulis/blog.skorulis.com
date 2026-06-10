@@ -9,7 +9,7 @@ draft: false
 ---
 Today I started working on a new nutrition app. Yes, I know there are already hundreds out there but for the most part they're pretty shit. Also I really want to get some more personal apps in the store. The concept of this app right now is still in its infancy, but I'm looking at it mostly as a way to display in depth information about ingredients.
 
-The immediate question to be answered is can I get the information I need. I actually found a really good resource with the [USDA](http://ndb.nal.usda.gov/ndb/search). Not only does it have detailed nutrition for over 8789 food items but it has a nice JSON API. Annoyingly it's rate limited so it was going to take a few hours to get all the data.
+The immediate question to be answered is can I get the information I need. I actually found a really good resource with the [USDA](https://ndb.nal.usda.gov/ndb/search). Not only does it have detailed nutrition for over 8789 food items but it has a nice JSON API. Annoyingly it's rate limited so it was going to take a few hours to get all the data.
 
 I broke the fetching up into 2 ruby scripts. The [first](https://github.com/skorulis/usda-nutrition-scraper/blob/master/getFoods.rb) gets all the available foods and the [second](https://github.com/skorulis/usda-nutrition-scraper/blob/master/getNutrition.rb) gets the full detail for each food item. To stop from hitting the rate limit I had the second one stop after a given number of iterations and then just ran it throughout the day.
 

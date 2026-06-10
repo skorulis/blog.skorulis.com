@@ -48,11 +48,10 @@ Now that I had walls and a floor though it meant moving my little drones into th
 1. With the isometric view and the ability to rotate the camera the concept of up didn’t always match up to what was expected.
 2. The camera wasn’t in any way centred on the player.
 
-Both of these issues pointed to the need to create an isometric camera built for my game. This was actually simpler than expected. [This post] gave me a nice overview so I simply switched to an Orthographic camera and set the position to be slightly offset from the player with a fixed direction. This wont be good enough for the final version since it needs smoother motion tracking but for now it lets me move on to more interesting things.
+Both of these issues pointed to the need to create an isometric camera built for my game. This was actually simpler than expected. This post gave me a nice overview so I simply switched to an Orthographic camera and set the position to be slightly offset from the player with a fixed direction. This wont be good enough for the final version since it needs smoother motion tracking but for now it lets me move on to more interesting things.
 
 At this point I had all of the building blocks I needed to start building my game. I have a lot of different game concepts that I could start with. The key is picking the one that I can get working fairly quickly. Time to sit down and have a long think about this before I get back to coding.
 
 
 
-[ModelBuilder]: https://libgdx.badlogicgames.com/nightlies/docs/api/com/badlogic/gdx/graphics/g3d/utils/ModelBuilder.html
-[This post]: http://www.badlogicgames.com/wordpress/?p=2032
+[ModelBuilder]: https://libgdx.com/wiki/graphics/3d/modelbuilder-meshbuilder-and-meshpartbuilder

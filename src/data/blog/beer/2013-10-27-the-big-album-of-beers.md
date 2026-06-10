@@ -28,7 +28,7 @@ Iâ€™m using [ember.js] to handle pretty much all the javascript on the page. Iâ€
 Next steps are to add a details page for each beer to keep a bit more information when I have it. Also some more detailed filters would be nice and possibly a sort order.
 
 
-[big album of beers search page]: http://skorulis.com/beer/index.html
+[big album of beers search page]: https://bigalbumofbeers.com
 [https://github.com/skorulis/blackbird]: https://github.com/skorulis/blackbird
 [Facebook graph explorer]: https://developers.facebook.com/tools/explorer
-[ember.js]: http://emberjs.com/
+[ember.js]: https://emberjs.com/

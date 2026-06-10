@@ -14,7 +14,4 @@ But a cube was never going to be enough. The next thing I needed was to be able 
 
 This entire learning process has taken me a few hours, much less than the weeks it took me to write a model loader and create the openGL calls to display it so in that regard the library is looking pretty good. Now to sit down and start designing my game so I have something to work towards.
 
-[LIBGDX]: http://libgdx.badlogicgames.com/
-[libgdx prerequisites]: https://github.com/libgdx/libgdx/wiki/Prerequisites
-[drawing a cube on the screen]: http://blog.xoppa.com/basic-3d-using-libgdx-2/
-[next tutorial in the series]: http://blog.xoppa.com/loading-models-using-libgdx/
+[libgdx prerequisites]: https://libgdx.com/wiki/

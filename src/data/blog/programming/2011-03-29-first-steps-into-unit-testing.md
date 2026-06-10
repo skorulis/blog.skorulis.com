@@ -36,5 +36,5 @@ End result:
 
 Before my next round of changes to the library (and I’m sure there will be one) I will probably expand on the unit tests to check a few of the values that the library generates to make sure I don’t break anything else. After that I hope to move on and do the same for some android projects. I just hope the frameworks there are a little easier to deal with.
 
-[this post]: http://www.cocoawithlove.com/2009/12/sample-iphone-application-with-complete.html
+[this post]: https://www.cocoawithlove.com/2009/12/sample-iphone-application-with-complete.html
 [Google toolbox for mac]:      https://github.com/google/google-toolbox-for-mac

@@ -63,8 +63,8 @@ What’s next
 
 Forplay is designed to be able to distribute to Android and Flash, but the current status of the library indicates that this may not work so I decided to get the java/HTML versions up and running first before concentrating on other platforms. I’ll have details of my experience with these two in my next post.
 
-[Google Web Toolkit]: http://code.google.com/webtoolkit/
+[Google Web Toolkit]: https://code.google.com/webtoolkit/
 [Google IO video about forplay]: https://www.youtube.com/watch?v=F_sbusEUz5w
-[forplay library]: http://code.google.com/p/forplay/
-[game here]: http://www.skorulis.com/flash/gwtgame/1
+[forplay library]: https://code.google.com/p/forplay/
+[game here]: https://www.skorulis.com/flash
 [source code here]: https://github.com/skorulis/heli2

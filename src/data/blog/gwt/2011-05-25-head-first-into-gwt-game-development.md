@@ -84,6 +84,6 @@ The next step is to move over to using the [forplay library]. It’s a fairly ne
 but it opens the possibility of being able to port the code directly to android and flash which would be a nice 3 for 1 scenario.
 
 [source code]: https://github.com/skorulis/heli
-[here]: http://www.skorulis.com/Content/gwt/heli/Heli.html
+[here]: https://www.skorulis.com
 [Look here]: https://developers.google.com/eclipse/docs/getting_started?csw=1
 [forplay library]: https://github.com/fredsa/forplay
