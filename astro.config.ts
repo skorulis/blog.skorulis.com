@@ -10,13 +10,11 @@ import {
 } from "@shikijs/transformers";
 import { transformerFileName } from "./src/utils/transformers/fileName";
 import { rehypeExternalNofollow } from "./src/utils/rehype-external-nofollow";
-import { getLegacyRedirects } from "./src/utils/getLegacyRedirects";
 import { SITE } from "./src/config";
 
 // https://astro.build/config
 export default defineConfig({
   site: SITE.website,
-  redirects: getLegacyRedirects(),
   integrations: [
     sitemap({
       filter: (page) => SITE.showArchives || !page.endsWith("/archives"),
