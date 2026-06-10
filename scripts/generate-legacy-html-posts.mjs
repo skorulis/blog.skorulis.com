@@ -1,10 +1,12 @@
-import { copyFileSync, existsSync, readdirSync, readFileSync, statSync } from "node:fs";
+import { copyFileSync, existsSync, readdirSync, readFileSync, statSync, writeFileSync } from "node:fs";
 import { join, relative } from "node:path";
 import kebabcase from "lodash.kebabcase";
 import slugify from "slugify";
 
 const BLOG_PATH = "src/data/blog";
 const distDir = process.argv[2] ?? "dist";
+// Keep in sync with SITE.website in src/config.ts
+const SITE_WEBSITE = "https://blog.skorulis.com/";
 
 function slugifyStr(str) {
   if (/[^\x00-\x7F]/.test(str)) return kebabcase(str);
@@ -79,4 +81,23 @@ for (const absolutePath of findMarkdownFiles(blogDir)) {
   }
 
   copyFileSync(source, target);
+
+  const canonicalUrl = new URL(postPath, SITE_WEBSITE).href;
+  let html = readFileSync(target, "utf-8");
+
+  html = html
+    .replace(
+      /<link rel="canonical" href="[^"]*">/,
+      `<link rel="canonical" href="${canonicalUrl}">`,
+    )
+    .replace(
+      /<meta property="og:url" content="[^"]*">/,
+      `<meta property="og:url" content="${canonicalUrl}">`,
+    )
+    .replace(
+      /<meta property="twitter:url" content="[^"]*">/,
+      `<meta property="twitter:url" content="${canonicalUrl}">`,
+    );
+
+  writeFileSync(target, html);
 }

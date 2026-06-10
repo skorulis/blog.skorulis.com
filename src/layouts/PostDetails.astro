@@ -64,13 +64,19 @@ const heroImageSrc =
       : `/${initOgImage}`
     : initOgImage?.src;
 
+const pageCanonicalURL = (
+  canonicalURL
+    ? new URL(canonicalURL, SITE.website)
+    : new URL(getPath(post.id, post.filePath), SITE.website)
+).href;
+
 const layoutProps = {
   title: `${title} | ${SITE.title}`,
   author,
   description,
   pubDatetime,
   modDatetime,
-  canonicalURL,
+  canonicalURL: pageCanonicalURL,
   ogImage,
   scrollSmooth: true,
 };
