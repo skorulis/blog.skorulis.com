@@ -1,3 +1,8 @@
 export function GET() {
-  return Response.redirect("/rss.xml", 301);
+  return new Response(null, {
+    status: 301,
+    headers: {
+      Location: "/rss.xml",
+    },
+  });
 }
