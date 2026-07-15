@@ -82,7 +82,8 @@ for (const absolutePath of findMarkdownFiles(blogDir)) {
 
   copyFileSync(source, target);
 
-  const canonicalUrl = new URL(postPath, SITE_WEBSITE).href;
+  // Match sitemap trailing slash for directory pages
+  const canonicalUrl = new URL(`${postPath}/`, SITE_WEBSITE).href;
   let html = readFileSync(target, "utf-8");
 
   html = html

@@ -67,7 +67,8 @@ const heroImageSrc =
 const pageCanonicalURL = (
   canonicalURL
     ? new URL(canonicalURL, SITE.website)
-    : new URL(getPath(post.id, post.filePath), SITE.website)
+    : // Match sitemap trailing slash for directory pages
+      new URL(`${getPath(post.id, post.filePath)}/`, SITE.website)
 ).href;
 
 const layoutProps = {
