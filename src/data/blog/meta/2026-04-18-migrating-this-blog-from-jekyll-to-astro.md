@@ -12,7 +12,7 @@ This blog has finally moved from Jekyll to Astro.
 
 I started from what I had already built for [ai.skorulis.com](https://ai.skorulis.com), which had a really nice setup. I still needed somewhere to post broader content, so bringing that foundation across made sense.
 
-The whole process was pretty easy, I just copied the entire AI blog and then replaced the posts with what I had in the [old blog](https://old.blog.skorulis.com/). Some of the meta formatting was different but AI was able to do that conversion quickly.
+The whole process was pretty easy, I just copied the entire AI blog and then replaced the posts with what I had in the old blog. Some of the meta formatting was different but AI was able to do that conversion quickly.
 
 I kept the slugs the same as before to avoid broken links. I still do not love having the date in there, but that is something I can revisit later.
 
