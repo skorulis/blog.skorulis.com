@@ -1,7 +1,7 @@
 ---
 title: "The search for a good domain name"
 description: "How hunting for a short .com led me to build a Swift domain scanner, check about 20,000 options, and land on duskroute.com."
-pubDatetime: 2026-07-16T00:00:00.000Z
+pubDatetime: 2026-07-15T00:00:00.000Z
 ogImage: images/2026-07-16-the-search-for-a-good-domain-name-og.png
 tags:
   - swift
