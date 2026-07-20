@@ -6,7 +6,7 @@ import { slugifyStr } from "./slugify";
  * @param id - id of the blog post (aka slug)
  * @param filePath - the blog post full file location
  * @param includeBase - whether to include `/posts` in return value
- * @returns blog post path
+ * @returns blog post path with trailing slash (canonical directory URL)
  */
 export function getPath(
   id: string,
@@ -31,10 +31,10 @@ export function getPath(
   const slug = slugMatch ? slugMatch[4] : rawSlug;
   const basePath = includeBase ? ["posts"] : [];
 
-  // If not inside the sub-dir, simply return the file path
+  // Trailing slash matches Astro directory routes and sitemap canonical URLs
   if (!pathSegments || pathSegments.length < 1) {
-    return `/${[...basePath, ...dateSegments, slug].join("/")}`;
+    return `/${[...basePath, ...dateSegments, slug].join("/")}/`;
   }
 
-  return `/${[...basePath, ...pathSegments, ...dateSegments, slug].join("/")}`;
+  return `/${[...basePath, ...pathSegments, ...dateSegments, slug].join("/")}/`;
 }
