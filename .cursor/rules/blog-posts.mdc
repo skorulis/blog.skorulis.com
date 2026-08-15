@@ -8,5 +8,5 @@ alwaysApply: false
 
 - **Tone**: Use a factual but light-hearted tone. Keep explanations grounded and accurate while still feeling approachable and conversational.
 - **Punctuation**: Avoid using em dashes; prefer commas, periods, or parentheses instead.
-- **Open Graph images**: Place OG images for posts in `src/data/blog/images`. Reference them from frontmatter or metadata as needed.
+- **Open Graph images**: Place OG images for posts in `src/data/blog/images`. Reference them from frontmatter or metadata as needed. Do not include the post title (or other large headline text) in the image; the layout already shows the title next to the hero. Illustrate the subject instead (a scene, diagram, or motif). A small brand mark such as a domain name is fine.
 - **Inline/content images**: Place other inline or supporting images in `public/images` and reference them with appropriate relative URLs.
