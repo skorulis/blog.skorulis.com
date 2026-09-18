@@ -47,3 +47,5 @@ Then we did a 10km bike ride to the "Pub with Cold Beer" in the rain. Not terrib
 <img src="/images/phong-nha/pub-with-cold-beer.jpg" alt="Holding a bike overhead under the Pub with Cold Beer sign while wearing a polka-dot rain poncho" class="m-0 w-full border border-border" loading="lazy" decoding="async" />
 
 It would be a nice place in the summer with the pool, but not so much in the rain. Only 2 other people made the trip. The menu has an option to pick a live chicken for lunch but I opted for pork noodles. 265k VND ($14 AUD) for lunch and 2 drinks each. The rain on the ride back was a little heavier but we made it through and dropped off the bikes. By that point we had done everything we could in Phong Nha so we sat and watched the river for a bit and then had our final dinner in the town, a chicken curry at Treehouse restaurant for 200k VND (~$11 AUD).
+
+**Next:** [Hanoi: 1 day stopover](/2026/09/15/hanoi-1-day-stopover/)

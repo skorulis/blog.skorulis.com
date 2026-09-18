@@ -41,3 +41,5 @@ By then the lantern boats were out in force, though it seemed nicer to watch fro
 The next morning we set out looking for breakfast, which required a bit of walking to understand what was on offer. Ended up having a different kind of banh mi which was more like an egg and bacon roll.
 
 After that we finished off walking around An Hoi Island just to make sure we saw it all, and then got a transfer to Da Nang.
+
+**Next:** [Da Nang: Steps, Caves, and Craft Beer](/2026/09/10/da-nang-steps-caves-and-craft-beer/)

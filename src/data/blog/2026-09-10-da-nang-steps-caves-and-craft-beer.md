@@ -41,3 +41,5 @@ After that we went back to the hotel and sat up at the rooftop pool and watched 
 <img src="/images/da-nang/rooftop-pool.jpg" alt="Rain falling into the rooftop pool with a misty Da Nang skyline beyond the glass railing" class="m-0 w-full border border-border" loading="lazy" decoding="async" />
 
 By this time my stomach had started protesting heavily about my sudden change in diet, so we opted for a jacket potato with cheese and bacon for dinner. Only 150k VND (~$8 AUD), with magical healing qualities that made me feel much better.
+
+**Next:** [Phong Nha: Caves and Rain](/2026/09/11/phong-nha-caves-rain-and-cold-beer/)
