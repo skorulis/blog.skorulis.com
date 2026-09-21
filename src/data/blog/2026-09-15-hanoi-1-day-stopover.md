@@ -39,3 +39,5 @@ In the morning we enjoyed our first buffet breakfast on the trip and then walked
 The bus was quite fancy and we had to take our shoes off before getting on. The seats included a back massage mode in addition to the usual reclining. Most of the drive is pretty standard but it gets more beautiful and hairy as we headed into the mountains near Sapa and could see the terraced rice paddies until we were high enough to be surrounded by fog.
 
 This stop only gave us a single day in Hanoi but we will be back later to visit it properly.
+
+**Next:** [Sapa: Rain, Mud and Fansipan](/2026/09/16/sapa-rain-mud-and-fansipan/)
