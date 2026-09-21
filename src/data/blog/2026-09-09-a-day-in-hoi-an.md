@@ -42,4 +42,6 @@ The next morning we set out looking for breakfast, which required a bit of walki
 
 After that we finished off walking around An Hoi Island just to make sure we saw it all, and then got a transfer to Da Nang.
 
+**Trip:** [Vietnam 2026](/2026/09/07/vietnam-2026/)
+
 **Next:** [Da Nang: Steps, Caves, and Craft Beer](/2026/09/10/da-nang-steps-caves-and-craft-beer/)

@@ -42,4 +42,6 @@ After that we went back to the hotel and sat up at the rooftop pool and watched 
 
 By this time my stomach had started protesting heavily about my sudden change in diet, so we opted for a jacket potato with cheese and bacon for dinner. Only 150k VND (~$8 AUD), with magical healing qualities that made me feel much better.
 
+**Trip:** [Vietnam 2026](/2026/09/07/vietnam-2026/)
+
 **Next:** [Phong Nha: Caves and Rain](/2026/09/11/phong-nha-caves-rain-and-cold-beer/)

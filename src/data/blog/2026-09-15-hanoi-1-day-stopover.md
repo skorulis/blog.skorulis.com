@@ -40,4 +40,6 @@ The bus was quite fancy and we had to take our shoes off before getting on. The 
 
 This stop only gave us a single day in Hanoi but we will be back later to visit it properly.
 
+**Trip:** [Vietnam 2026](/2026/09/07/vietnam-2026/)
+
 **Next:** [Sapa: Rain, Mud and Fansipan](/2026/09/16/sapa-rain-mud-and-fansipan/)
