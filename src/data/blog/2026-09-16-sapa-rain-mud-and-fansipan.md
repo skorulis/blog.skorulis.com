@@ -54,3 +54,5 @@ Finishing up in Sapa my impression is that the place is loved to death. The litt
 We wanted to get the overnight train but it was fully booked so we got a HK bus back to Hanoi in the afternoon. This bus left on time and we got a 30-minute dinner break at a road stop where we shared a mystery-meat fried rice for 100k VND (~$5 AUD). Even though the bus left on time we still got in 1.5 hours late so we did not check in until after midnight. We had an early morning to catch the 8am train to Ninh Binh which is only 2 hours on the train.
 
 **Trip:** [Vietnam 2026](/2026/09/07/vietnam-2026/)
+
+**Next:** [Ninh Binh: Bikes, Boats and Happy Hours](/2026/09/20/ninh-binh-bikes-boats-and-happy-hours/)
