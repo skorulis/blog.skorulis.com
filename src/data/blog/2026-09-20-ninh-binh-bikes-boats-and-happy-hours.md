@@ -75,3 +75,5 @@ For dinner we went back to the same bar street, this time to Madame Mai to try t
 Overall I really liked Ninh Binh and was sad to leave. Riding bikes around was a lot of fun, and Tam Coc was a good-sized town with plenty within walking distance.
 
 **Trip:** [Vietnam 2026](/2026/09/07/vietnam-2026/)
+
+**Next:** [Cat Ba Island: Free Beer and Lan Ha Bay](/2026/09/23/cat-ba-island-free-beer-and-lan-ha-bay/)
