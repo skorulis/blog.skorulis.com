@@ -68,3 +68,5 @@ In the morning we had a bus booked to Hanoi also through Cat Ba Ventures, so we 
 Overall, Cat Ba was a kind of strange place in the low season. So much of it is closed during the day and only opens up after 5pm. It provides close access to Lan Ha Bay for cruises and has a huge national park, which I didn't get to visit. But the new Sun World construction is going to turn the main town into a giant beach resort. 
 
 **Trip:** [Vietnam 2026](/2026/09/07/vietnam-2026/)
+
+**Next:** [Hanoi: Train Street, Egg Beer and Pottery](/2026/09/26/hanoi-train-street-egg-beer-and-pottery/)
