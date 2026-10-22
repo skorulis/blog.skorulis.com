@@ -71,3 +71,5 @@ Later that night we went to Shinsekai and got an assortment of deep-fried items 
 In the morning we checked out and headed to Shin-Osaka to catch our first Shinkansen bullet train to Hiroshima. In the station I got a self-heating bento box and a beer for the train for ¥1900 (~$17 AUD). And then we were off, rocketing towards Hiroshima. The train was quite comfortable, making it a great way to travel.
 
 Overall I really liked Osaka. It was a slightly toned-down version of Tokyo, with lots of little streets to explore where each one had something different.
+
+**Trip:** [Japan 2026](/2026/10/13/japan-2026/)
