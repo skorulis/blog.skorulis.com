@@ -1,6 +1,7 @@
 import { defineConfig, envField, fontProviders } from "astro/config";
 import tailwindcss from "@tailwindcss/vite";
 import sitemap from "@astrojs/sitemap";
+import remarkGfm from "remark-gfm";
 import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import {
@@ -21,7 +22,12 @@ export default defineConfig({
     }),
   ],
   markdown: {
-    remarkPlugins: [remarkToc, [remarkCollapse, { test: "Table of contents" }]],
+    gfm: false,
+    remarkPlugins: [
+      [remarkGfm, { singleTilde: false }],
+      remarkToc,
+      [remarkCollapse, { test: "Table of contents" }],
+    ],
     rehypePlugins: [[rehypeExternalNofollow, { site: SITE.website }]],
     shikiConfig: {
       // For more themes, visit https://shiki.style/themes
