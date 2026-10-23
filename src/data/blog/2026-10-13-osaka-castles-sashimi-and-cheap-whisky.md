@@ -73,3 +73,5 @@ In the morning we checked out and headed to Shin-Osaka to catch our first Shinka
 Overall I really liked Osaka. It was a slightly toned-down version of Tokyo, with lots of little streets to explore where each one had something different.
 
 **Trip:** [Japan 2026](/2026/10/13/japan-2026/)
+
+**Next:** [Hiroshima: Miyajima, Sake Street and Okonomiyaki](/2026/10/18/hiroshima-miyajima-sake-street-and-okonomiyaki/)
