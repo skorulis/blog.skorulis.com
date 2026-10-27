@@ -61,3 +61,5 @@ Overall, Hiroshima reminded me of Canberra in Australia. It's a nice place with 
 **Trip:** [Japan 2026](/2026/10/13/japan-2026/)
 
 **Previous:** [Osaka: Castles, Supermarket Sashimi and Cheap Whisky](/2026/10/13/osaka-castles-sashimi-and-cheap-whisky/)
+
+**Next:** [Nara and Kyoto: Deer, Old Toys and teamLab](/2026/10/22/nara-kyoto-deer-toys-and-teamlab/)
