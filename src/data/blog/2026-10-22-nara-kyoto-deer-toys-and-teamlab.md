@@ -75,3 +75,5 @@ Overall, Nara is a destination built around the deer park, but the old town is g
 **Trip:** [Japan 2026](/2026/10/13/japan-2026/)
 
 **Previous:** [Hiroshima: Miyajima, Sake Street and Okonomiyaki](/2026/10/18/hiroshima-miyajima-sake-street-and-okonomiyaki/)
+
+**Next:** [Nagoya: The Nakasendo Trail, Kishimen and Craft Beer](/2026/10/27/nagoya-nakasendo-kishimen-and-craft-beer/)
