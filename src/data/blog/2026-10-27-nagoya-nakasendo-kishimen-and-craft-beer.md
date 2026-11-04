@@ -81,3 +81,5 @@ On Saturday the 31st we checked out and walked to Nagoya Station to get the JR S
 **Trip:** [Japan 2026](/2026/10/13/japan-2026/)
 
 **Previous:** [Nara and Kyoto: Deer, Old Toys and teamLab](/2026/10/22/nara-kyoto-deer-toys-and-teamlab/)
+
+**Next:** [Matsumoto: The Black Castle, Frog Street and Kamikōchi](/2026/10/31/matsumoto-castle-frogs-and-kamikochi/)
