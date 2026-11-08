@@ -89,3 +89,5 @@ Overall Matsumoto is a bit of a sleepy mountain town even though it looks large 
 **Trip:** [Japan 2026](/2026/10/13/japan-2026/)
 
 **Previous:** [Nagoya: The Nakasendo Trail, Kishimen and Craft Beer](/2026/10/27/nagoya-nakasendo-kishimen-and-craft-beer/)
+
+**Next:** [Nagano: Zenkō-ji, the Togakushi Shrines and a Ninja Maze](/2026/11/04/nagano-zenkoji-togakushi-and-ninjas/)
