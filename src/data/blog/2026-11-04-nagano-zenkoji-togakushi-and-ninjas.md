@@ -71,3 +71,5 @@ Overall, despite the ninja museum being so much fun, the actual city of Nagano w
 **Trip:** [Japan 2026](/2026/10/13/japan-2026/)
 
 **Previous:** [Matsumoto: The Black Castle, Frog Street and Kamikōchi](/2026/10/31/matsumoto-castle-frogs-and-kamikochi/)
+
+**Next:** [Tokyo: Standing Bars, Shibuya Whisky and the Roppongi Lights](/2026/11/07/tokyo-standing-bars-shibuya-whisky-and-roppongi-lights/)
